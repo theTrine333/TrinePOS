@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Main-Class: trinecodecmain.progressBar
+Class-Path: . TrinePOS_lib/AbsoluteLayout.jar TrinePOS_lib/commons-beanu
+ tils-1.8.2.jar TrinePOS_lib/commons-collections-3.2.1.jar TrinePOS_lib/
+ commons-digester-2.1.jar TrinePOS_lib/commons-javaflow-20060411.jar Tri
+ nePOS_lib/commons-logging-1.1.jar TrinePOS_lib/daraja-api-1.6-b.jar Tri
+ nePOS_lib/groovy-all-2.0.1.jar TrinePOS_lib/annotations-api-6.0.53.jar 
+ TrinePOS_lib/catalina-6.0.53.jar TrinePOS_lib/coyote-6.0.53.jar TrinePO
+ S_lib/ecj-4.3.1.jar TrinePOS_lib/el-api-6.0.53.jar TrinePOS_lib/jasper-
+ 6.0.53.jar TrinePOS_lib/jasper-el-6.0.53.jar TrinePOS_lib/jsp-api-6.0.5
+ 3.jar TrinePOS_lib/juli-6.0.53.jar TrinePOS_lib/servlet-api-6.0.53.jar 
+ TrinePOS_lib/javapos-1.14.2.jar TrinePOS_lib/commons-logging-1.1.3.jar 
+ TrinePOS_lib/jxmapviewer2-2.5.jar TrinePOS_lib/miglayout-4.0.jar TrineP
+ OS_lib/TimingFramework-0.55.jar TrinePOS_lib/timber-3.1.0.jar TrinePOS_
+ lib/toast-0.1.1.jar TrinePOS_lib/mysql-connector-java-8.0.12.jar TrineP
+ OS_lib/NotificationAPI.jar TrinePOS_lib/TrayTester.jar TrinePOS_lib/cor
+ e-3.5.1.jar TrinePOS_lib/jai-imageio-core-1.4.0.jar TrinePOS_lib/javase
+ -3.5.1.jar TrinePOS_lib/jcommander-1.82.jar TrinePOS_lib/iText-2.1.7.js
+ 2.jar TrinePOS_lib/jasperreports-5.6.0.jar TrinePOS_lib/jfreechart-1.0.
+ 12.jar TrinePOS_lib/poi-3.7-20101029.jar TrinePOS_lib/jcommon-1.0.23.ja
+ r TrinePOS_lib/jfreechart-1.0.19.jar TrinePOS_lib/jcalendar-1.4.jar Tri
+ nePOS_lib/jdatepicker-2.0.3.jar TrinePOS_lib/flatlaf-3.1.1.jar
+

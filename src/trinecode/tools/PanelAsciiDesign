@@ -1,0 +1,49 @@
++--------------------------------------------------------------------------+
+|                    MySQL Inspector Panel                                 |
++--------------------------------------------------------------------------+
+| [Database Information]                           [Table Data Viewer]     |
+| -----------------------------------------------  ----------------------  |
+| Database Name: moyale_mini_supermarket           [Table: products]       |
+| Database Version: 8.0.26                        +---------------------+  |
+| Server Version: 8.0.26                          |  ID  | Product Name |  |
+|                                                 +---------------------+  |
+| [Custom SQL Query]                              | |  1  | Product A   |  |
+| ----------------------------------------------- | |  2  | Product B   |  |
+| Enter your SQL query here:                      | |  3  | Product C   |  |
+| SELECT * FROM sales;                            | | ...               |  |
+|                                                 | +-------------------+  |
+| [Export Data]                                   |                        |
+| ----------------------------------------------- |                        |
+| Select a table to export:                       |                        |
+| [x] products                                    |                        |
+| [ ] sales                                       | [Server Status]        |
+| [ ] customers                                   | ---------------------- |
+|                                                 | Connections: 25        |
+| [Schema Visualization]                          | Uptime: 1 day 6 hours  |
+| ----------------------------------------------- | CPU Usage: 30%         |
+| [ ] products                                    | Memory Usage: 45%      |
+| [x] sales                                       |                        |
+| [ ] customers                                   | [Database Backup and   |
+|                                                 |  Restore]              |
+| [Database Health Check]                         | ---------------------- |
+| ----------------------------------------------- | [ ] Backup Database    |
+| - Checking for broken links...                  | [ ] Restore Database   |
+| - Analyzing data consistency...                 |                        |
+|                                                 | [Users and Permissions |
+| [SQL Query History]                             |   Management]          |
+| ----------------------------------------------- | ---------------------- |
+| - SELECT * FROM products;                       | User: admin            |
+| - UPDATE customers SET points = 200 WHERE...    | Permissions: Read/Write|
+|                                                 |                        |
+| [Performance Monitoring]                        | [ ] SQL Query History  |
+| ----------------------------------------------- | - SELECT * FROM...     |
+| Query Execution Time: 0.2s                      | - UPDATE customers...  |
+| CPU Usage: 30%                                  |                        |
+| Memory Usage: 45%                               | [Performance Monitoring|
+|                                                 |   ]                    |
+| [Database Health Check]                         | ---------------------- |
+| ----------------------------------------------- | Query Execution Time:  |
+| - Checking for broken links...                  | 0.2s                   |
+| - Analyzing data consistency...                 | CPU Usage: 30%         |
+|                                                 | Memory Usage: 45%      |
++--------------------------------------------------------------------------+
